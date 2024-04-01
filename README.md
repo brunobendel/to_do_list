@@ -5,7 +5,7 @@ Bem-vindo ao meu aplicativo de lista de tarefas, uma ferramenta simples e eficaz
 #
 
 - Deploy Vercel ☁️:
-  - [To_do_list](https://to-do-list-psi-eosin-49.vercel.app/) 🎬
+  - [To_do_list](https://to-do-list-psi-eosin-49.vercel.app/)
 
 #
 
