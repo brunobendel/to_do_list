@@ -2,6 +2,13 @@
 
 Bem-vindo ao meu aplicativo de lista de tarefas, uma ferramenta simples e eficaz para organizar suas atividades diárias.
 
+#
+
+- Deploy Vercel ☁️:
+  - [MoviesLib](https://to-do-list-psi-eosin-49.vercel.app/) 🎬
+
+#
+
 <p align="center">
   <img alt="To-Do List App" src="img/print.png" width="70%">
 </p>
